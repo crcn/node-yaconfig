@@ -1,7 +1,7 @@
 {
     "name": "yaconf",
     "description": "Dead simple node.js file configuration",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Craig Condon",
     "repository": {
         "type": "git",
