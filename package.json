@@ -1,14 +1,14 @@
 {
     "name": "yaconf",
     "description": "Dead simple node.js file configuration",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Craig Condon",
     "repository": {
         "type": "git",
         "url": "http://github.com/crcn/yaconf.git"
     },
     "dependencies": {
-        "node-fs":"*"
+        "node-fs": "*"
     },
     "main": "./index.js"
 }
