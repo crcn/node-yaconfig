@@ -29,3 +29,4 @@ cfg.save('person:name', Craig );
 
 cfg.get('person:name');// Craig
 cfg.get('person');// { name: "Craig" }
+```
