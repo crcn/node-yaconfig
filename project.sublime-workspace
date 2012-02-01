@@ -19,7 +19,7 @@
 			"file": "lib/persist/json.js",
 			"settings":
 			{
-				"buffer_size": 609,
+				"buffer_size": 646,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +35,7 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 4005,
+				"buffer_size": 4081,
 				"line_ending": "Unix"
 			}
 		},
@@ -44,6 +44,14 @@
 			"settings":
 			{
 				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin itnDpB.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +75,7 @@
 			"file": "examples/yay.json",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 39,
 				"line_ending": "Unix"
 			}
 		},
@@ -152,6 +160,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"err",
 			"keyParts",
 			"prop",
 			"saveNow",
@@ -202,7 +211,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -236,20 +245,22 @@
 					"file": "lib/persist/json.js",
 					"settings":
 					{
-						"buffer_size": 609,
+						"buffer_size": 646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								547,
-								547
+								279,
+								279
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -288,15 +299,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 4005,
+						"buffer_size": 4081,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2989,
-								2989
+								3869,
+								3869
 							]
 						],
 						"settings":
@@ -306,7 +317,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2355.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -341,6 +352,32 @@
 				},
 				{
 					"buffer": 5,
+					"file": "/tmp/subl stdin itnDpB.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "examples/one.js",
 					"settings":
 					{
@@ -366,7 +403,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "test/config-test.js",
 					"settings":
 					{
@@ -393,11 +430,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "examples/yay.json",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 39,
 						"regions":
 						{
 						},
@@ -419,7 +456,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "README.md",
 					"settings":
 					{
