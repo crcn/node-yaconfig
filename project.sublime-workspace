@@ -35,7 +35,15 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 4081,
+				"buffer_size": 4139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin wJVSFL.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +51,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 399,
+				"buffer_size": 402,
 				"line_ending": "Unix"
 			}
 		},
@@ -299,15 +307,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 4081,
+						"buffer_size": 4139,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3869,
-								3869
+								2439,
+								2439
 							]
 						],
 						"settings":
@@ -317,25 +325,51 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2463.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "package.json",
+					"file": "/tmp/subl stdin wJVSFL.txt",
 					"settings":
 					{
-						"buffer_size": 399,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								106,
-								106
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -351,7 +385,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "/tmp/subl stdin itnDpB.txt",
 					"settings":
 					{
@@ -377,7 +411,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "examples/one.js",
 					"settings":
 					{
@@ -403,7 +437,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "test/config-test.js",
 					"settings":
 					{
@@ -430,7 +464,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "examples/yay.json",
 					"settings":
 					{
@@ -456,7 +490,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "README.md",
 					"settings":
 					{
